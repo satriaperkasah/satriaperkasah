@@ -1,0 +1,12 @@
+lhs,rhs,edge_weights
+GF903,140 W Court,0.33
+140 W Court,0,0.33
+0,212,0.33
+212,0,0.44
+GF903,1407 Wescam Court,0.44
+YT43,1407 Wescam Court,0.5
+1407 Wescam Court,T75,0.58
+T75,212,0.66
+212,T75,0.49
+RG09,160 Asher St,0.32
+160 Asher St,T75,0.41
