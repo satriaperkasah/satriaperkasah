@@ -1,0 +1,3 @@
+provider_id -> provider_address
+provider_address -> provider_area_id
+provider_area_id -> service_area
